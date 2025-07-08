@@ -1,1 +1,3 @@
 # projet-python-pandas
+
+Ces deux mini-projets réalisés avec **Pandas** m'ont permis de comprendre concrètement comment charger, explorer et analyser un jeu de données tabulaire. J’ai appris à filtrer des données selon des critères, à faire des statistiques simples (comme des moyennes, des comptages) et à utiliser des fonctions d’agrégation avec `groupby`. Ils m’ont également montré l’importance du **croisement de colonnes** pour affiner l’analyse (par exemple croiser l’email avec la profession), ce qui permet d’identifier des comportements ou des profils spécifiques. Ces exercices m’ont donné une base solide en manipulation de données structurées, indispensable pour tout projet en **data science**.
